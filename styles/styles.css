@@ -178,3 +178,14 @@ aside{
     padding: 5px;
     color:white;
 }
+.titulo-venta{
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    text-transform: uppercase;
+}
+.valor-ticket{
+    display: block;
+    font-weight: 4000;
+    font-size: 35px;
+}
